@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: oz627swsu-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/oz627swsu-nodejs-gitops
